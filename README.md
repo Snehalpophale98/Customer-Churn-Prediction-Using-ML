@@ -1,4 +1,6 @@
 Customer Churn Analysis
+
+
 This project is focused on analyzing customer churn for a telecommunications company. The dataset contains customer information such as state	area_code , 
 account_length, voice_plan,	voice_messages,	intl_plan, intl_mins, intl_calls, intl_charge, day_mins, day_calls, day_charge, eve_mins, eve_calls,	eve_charge,	night_mins,
 night_calls,	night_charge,	customer_calls,	churn- whether they have churned or not.
