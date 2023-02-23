@@ -49,5 +49,5 @@ Model Evaluation: This step involves evaluating the performance of the model usi
 It also involves analyzing the confusion matrix and ROC curve.
 
 ## Conclusion
-The analysis shows that the most important factors that contribute to customer churn are international call and voice plan. The best performing model was the 
+The analysis shows that the most important factors that contribute to customer churn are international call,customer calls and voice plan. The best performing model was the 
 XGBoost Classifier, which achieved an accuracy of 92% and an F1 score of 0.75.
