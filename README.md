@@ -1,4 +1,4 @@
-#Customer Churn Analysis
+# Customer Churn Analysis
 
 
 This project is focused on analyzing customer churn for a telecommunications company. The dataset contains customer information such as state	area_code , 
@@ -12,16 +12,16 @@ most to customer churn.
 The dataset used in this project is the Telcom Customer Churn dataset. 
 
 ## Files
-###Customer Churn Prediction: 
+### Customer Churn Prediction: 
 Jupyter notebook containing the code for the project
 
-###Churn.csv: 
+### Churn.csv: 
 Dataset used for the analysis
 
-###README.md:  
+### README.md:  
 Readme file explaining the project
 
-##Requirements
+## Requirements
 This project requires the following Python libraries:
 
 pandas
@@ -30,7 +30,7 @@ matplotlib
 seaborn
 sklearn
 
-##Analysis
+## Analysis
 The analysis includes the following steps:
 
 Exploratory Data Analysis (EDA): 
@@ -48,6 +48,6 @@ Model Selection: This step involves selecting the appropriate model for the data
 Model Evaluation: This step involves evaluating the performance of the model using various metrics such as accuracy, precision, recall, and F1 score.
 It also involves analyzing the confusion matrix and ROC curve.
 
-##Conclusion
+## Conclusion
 The analysis shows that the most important factors that contribute to customer churn are international call and voice plan. The best performing model was the 
 XGBoost Classifier, which achieved an accuracy of 92% and an F1 score of 0.75.
