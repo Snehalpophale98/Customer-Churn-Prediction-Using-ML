@@ -1,4 +1,4 @@
-# Customer Churn Analysis
+# Customer Churn Prediction
 
 
 This project is focused on analyzing customer churn for a telecommunications company. The dataset contains customer information such as state	area_code , 
