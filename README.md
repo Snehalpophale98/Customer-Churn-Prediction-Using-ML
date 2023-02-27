@@ -33,19 +33,19 @@ sklearn
 ## Analysis
 The analysis includes the following steps:
 
-Exploratory Data Analysis (EDA): 
+###Exploratory Data Analysis (EDA): 
 This step involves understanding the data, exploring the relationship between the features and the target variable,
 and identifying any trends or patterns.
 
-Data Preprocessing:
+###Data Preprocessing:
 This step involves cleaning the data, handling missing values, encoding categorical variables, and scaling numerical variables,handling the outliers.
 
-Feature Selection: This step involves selecting the most important features that contribute to customer churn using statistical tests, correlation analysis,
+###Feature Selection: This step involves selecting the most important features that contribute to customer churn using statistical tests, correlation analysis,
 and feature importance scores.
 
-Model Selection: This step involves selecting the appropriate model for the dataset and problem, I have implemented classification model like Logistic Regression,PCA, XGBoost Classifier, Decision Tree classfier, Random Forest Classifier,etc and tuning the hyperparameters to achieve better performance. Selected the XGBoost Classifier because ut gave me highest accuracy.
+###Model Selection: This step involves selecting the appropriate model for the dataset and problem, I have implemented classification model like Logistic Regression,PCA, XGBoost Classifier, Decision Tree classfier, Random Forest Classifier,etc and tuning the hyperparameters to achieve better performance. Selected the XGBoost Classifier because ut gave me highest accuracy.
 
-Model Evaluation: This step involves evaluating the performance of the model using various metrics such as accuracy, precision, recall, and F1 score.
+###Model Evaluation: This step involves evaluating the performance of the model using various metrics such as accuracy, precision, recall, and F1 score.
 It also involves analyzing the confusion matrix and ROC curve. So my XGBoost Model gave me 92% accuracy.
 
 ## Conclusion
