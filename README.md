@@ -35,7 +35,7 @@ The analysis includes the following steps:
 
 ### Exploratory Data Analysis (EDA): 
 This step involves understanding the data, exploring the relationship between the features and the target variable,
-and identifying any trends or patterns.
+and identifying any trends or patterns, also data was imbalanced so balanced it using SMOTE Technique
 
 ### Data Preprocessing:
 This step involves cleaning the data, handling missing values with imputation technique, encoding categorical variables, and scaling numerical variables,handling the outliers.
